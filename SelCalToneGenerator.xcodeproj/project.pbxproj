@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		50B5FF2715920DB80002121F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2615920DB80002121F /* UIKit.framework */; };
+		50B5FF2915920DB80002121F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2815920DB80002121F /* Foundation.framework */; };
+		50B5FF2B15920DB80002121F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2A15920DB80002121F /* CoreGraphics.framework */; };
+		50B5FF3115920DB80002121F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 50B5FF2F15920DB80002121F /* InfoPlist.strings */; };
+		50B5FF3315920DB80002121F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B5FF3215920DB80002121F /* main.m */; };
+		50B5FF3715920DB80002121F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B5FF3615920DB80002121F /* AppDelegate.m */; };
+		50B5FF3A15920DB80002121F /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B5FF3815920DB80002121F /* MainStoryboard_iPhone.storyboard */; };
+		50B5FF3D15920DB90002121F /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B5FF3B15920DB80002121F /* MainStoryboard_iPad.storyboard */; };
+		50B5FF4015920DB90002121F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B5FF3F15920DB90002121F /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		50B5FF2215920DB80002121F /* SelCalToneGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelCalToneGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		50B5FF2615920DB80002121F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		50B5FF2815920DB80002121F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		50B5FF2A15920DB80002121F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		50B5FF2E15920DB80002121F /* SelCalToneGenerator-Info.plist */ = {isa = PBXFileReference; path = "SelCalToneGenerator-Info.plist"; sourceTree = "<group>"; };
+		50B5FF3015920DB80002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50B5FF3215920DB80002121F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		50B5FF3415920DB80002121F /* SelCalToneGenerator-Prefix.pch */ = {isa = PBXFileReference; path = "SelCalToneGenerator-Prefix.pch"; sourceTree = "<group>"; };
+		50B5FF3515920DB80002121F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		50B5FF3615920DB80002121F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		50B5FF3915920DB80002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		50B5FF3C15920DB90002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		50B5FF3E15920DB90002121F /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		50B5FF3F15920DB90002121F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		50B5FF1F15920DB80002121F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50B5FF2715920DB80002121F /* UIKit.framework in Frameworks */,
+				50B5FF2915920DB80002121F /* Foundation.framework in Frameworks */,
+				50B5FF2B15920DB80002121F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		50B5FF1715920DB80002121F = {
+			isa = PBXGroup;
+			children = (
+				50B5FF2C15920DB80002121F /* SelCalToneGenerator */,
+				50B5FF2515920DB80002121F /* Frameworks */,
+				50B5FF2315920DB80002121F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		50B5FF2315920DB80002121F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50B5FF2215920DB80002121F /* SelCalToneGenerator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50B5FF2515920DB80002121F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				50B5FF2615920DB80002121F /* UIKit.framework */,
+				50B5FF2815920DB80002121F /* Foundation.framework */,
+				50B5FF2A15920DB80002121F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		50B5FF2C15920DB80002121F /* SelCalToneGenerator */ = {
+			isa = PBXGroup;
+			children = (
+				50B5FF3515920DB80002121F /* AppDelegate.h */,
+				50B5FF3615920DB80002121F /* AppDelegate.m */,
+				50B5FF3815920DB80002121F /* MainStoryboard_iPhone.storyboard */,
+				50B5FF3B15920DB80002121F /* MainStoryboard_iPad.storyboard */,
+				50B5FF3E15920DB90002121F /* ViewController.h */,
+				50B5FF3F15920DB90002121F /* ViewController.m */,
+				50B5FF2D15920DB80002121F /* Supporting Files */,
+			);
+			path = SelCalToneGenerator;
+			sourceTree = "<group>";
+		};
+		50B5FF2D15920DB80002121F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				50B5FF2E15920DB80002121F /* SelCalToneGenerator-Info.plist */,
+				50B5FF2F15920DB80002121F /* InfoPlist.strings */,
+				50B5FF3215920DB80002121F /* main.m */,
+				50B5FF3415920DB80002121F /* SelCalToneGenerator-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		50B5FF2115920DB80002121F /* SelCalToneGenerator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50B5FF4315920DB90002121F /* Build configuration list for PBXNativeTarget "SelCalToneGenerator" */;
+			buildPhases = (
+				50B5FF1E15920DB80002121F /* Sources */,
+				50B5FF1F15920DB80002121F /* Frameworks */,
+				50B5FF2015920DB80002121F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SelCalToneGenerator;
+			productName = SelCalToneGenerator;
+			productReference = 50B5FF2215920DB80002121F /* SelCalToneGenerator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		50B5FF1915920DB80002121F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Gables Engineering";
+			};
+			buildConfigurationList = 50B5FF1C15920DB80002121F /* Build configuration list for PBXProject "SelCalToneGenerator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 50B5FF1715920DB80002121F;
+			productRefGroup = 50B5FF2315920DB80002121F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				50B5FF2115920DB80002121F /* SelCalToneGenerator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		50B5FF2015920DB80002121F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50B5FF3115920DB80002121F /* InfoPlist.strings in Resources */,
+				50B5FF3A15920DB80002121F /* MainStoryboard_iPhone.storyboard in Resources */,
+				50B5FF3D15920DB90002121F /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		50B5FF1E15920DB80002121F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50B5FF3315920DB80002121F /* main.m in Sources */,
+				50B5FF3715920DB80002121F /* AppDelegate.m in Sources */,
+				50B5FF4015920DB90002121F /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		50B5FF2F15920DB80002121F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B5FF3015920DB80002121F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		50B5FF3815920DB80002121F /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B5FF3915920DB80002121F /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		50B5FF3B15920DB80002121F /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B5FF3C15920DB90002121F /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		50B5FF4115920DB90002121F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		50B5FF4215920DB90002121F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		50B5FF4415920DB90002121F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SelCalToneGenerator/SelCalToneGenerator-Prefix.pch";
+				INFOPLIST_FILE = "SelCalToneGenerator/SelCalToneGenerator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		50B5FF4515920DB90002121F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SelCalToneGenerator/SelCalToneGenerator-Prefix.pch";
+				INFOPLIST_FILE = "SelCalToneGenerator/SelCalToneGenerator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		50B5FF1C15920DB80002121F /* Build configuration list for PBXProject "SelCalToneGenerator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50B5FF4115920DB90002121F /* Debug */,
+				50B5FF4215920DB90002121F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50B5FF4315920DB90002121F /* Build configuration list for PBXNativeTarget "SelCalToneGenerator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50B5FF4415920DB90002121F /* Debug */,
+				50B5FF4515920DB90002121F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 50B5FF1915920DB80002121F /* Project object */;
+}
