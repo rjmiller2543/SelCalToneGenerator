@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		506CF9CF15AB6A3600A839F4 /* sample_1kHz_44100Hz_16bit_05sec.wav in Resources */ = {isa = PBXBuildFile; fileRef = 506CF9CE15AB6A3600A839F4 /* sample_1kHz_44100Hz_16bit_05sec.wav */; };
+		5097FA5015B0A086005C6175 /* 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3015B0A086005C6175 /* 1.wav */; };
+		5097FA5115B0A086005C6175 /* 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3115B0A086005C6175 /* 2.wav */; };
+		5097FA5215B0A086005C6175 /* 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3215B0A086005C6175 /* 3.wav */; };
+		5097FA5315B0A086005C6175 /* 4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3315B0A086005C6175 /* 4.wav */; };
+		5097FA5415B0A086005C6175 /* 5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3415B0A086005C6175 /* 5.wav */; };
+		5097FA5515B0A086005C6175 /* 6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3515B0A086005C6175 /* 6.wav */; };
+		5097FA5615B0A086005C6175 /* 7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3615B0A086005C6175 /* 7.wav */; };
+		5097FA5715B0A086005C6175 /* 8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3715B0A086005C6175 /* 8.wav */; };
+		5097FA5815B0A086005C6175 /* 9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3815B0A086005C6175 /* 9.wav */; };
+		5097FA5915B0A086005C6175 /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3915B0A086005C6175 /* A.wav */; };
+		5097FA5A15B0A086005C6175 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3A15B0A086005C6175 /* B.wav */; };
+		5097FA5B15B0A086005C6175 /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3B15B0A086005C6175 /* C.wav */; };
+		5097FA5C15B0A086005C6175 /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3C15B0A086005C6175 /* D.wav */; };
+		5097FA5D15B0A086005C6175 /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3D15B0A086005C6175 /* E.wav */; };
+		5097FA5E15B0A086005C6175 /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3E15B0A086005C6175 /* F.wav */; };
+		5097FA5F15B0A086005C6175 /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA3F15B0A086005C6175 /* G.wav */; };
+		5097FA6015B0A086005C6175 /* H.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4015B0A086005C6175 /* H.wav */; };
+		5097FA6115B0A086005C6175 /* J.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4115B0A086005C6175 /* J.wav */; };
+		5097FA6215B0A086005C6175 /* K.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4215B0A086005C6175 /* K.wav */; };
+		5097FA6315B0A086005C6175 /* L.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4315B0A086005C6175 /* L.wav */; };
+		5097FA6415B0A086005C6175 /* M.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4415B0A086005C6175 /* M.wav */; };
+		5097FA6515B0A086005C6175 /* P.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4515B0A086005C6175 /* P.wav */; };
+		5097FA6615B0A086005C6175 /* Q.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4615B0A086005C6175 /* Q.wav */; };
+		5097FA6715B0A086005C6175 /* R.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4715B0A086005C6175 /* R.wav */; };
+		5097FA6815B0A086005C6175 /* S.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4815B0A086005C6175 /* S.wav */; };
+		5097FA6A15B0A086005C6175 /* U.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4A15B0A086005C6175 /* U.wav */; };
+		5097FA6B15B0A086005C6175 /* V.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4B15B0A086005C6175 /* V.wav */; };
+		5097FA6C15B0A086005C6175 /* W.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4C15B0A086005C6175 /* W.wav */; };
+		5097FA6D15B0A086005C6175 /* X.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4D15B0A086005C6175 /* X.wav */; };
+		5097FA6E15B0A086005C6175 /* Y.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4E15B0A086005C6175 /* Y.wav */; };
+		5097FA6F15B0A086005C6175 /* Z.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA4F15B0A086005C6175 /* Z.wav */; };
+		5097FA7115B0A71B005C6175 /* T.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5097FA7015B0A71B005C6175 /* T.wav */; };
 		50B5FF2715920DB80002121F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2615920DB80002121F /* UIKit.framework */; };
 		50B5FF2915920DB80002121F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2815920DB80002121F /* Foundation.framework */; };
 		50B5FF2B15920DB80002121F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF2A15920DB80002121F /* CoreGraphics.framework */; };
@@ -16,23 +49,60 @@
 		50B5FF3A15920DB80002121F /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B5FF3815920DB80002121F /* MainStoryboard_iPhone.storyboard */; };
 		50B5FF3D15920DB90002121F /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B5FF3B15920DB80002121F /* MainStoryboard_iPad.storyboard */; };
 		50B5FF4015920DB90002121F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B5FF3F15920DB90002121F /* ViewController.m */; };
+		50B5FF5715923DF20002121F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B5FF5615923DF20002121F /* AVFoundation.framework */; };
+		50E5615C15B9A95E00C66FE6 /* SILENCE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 50E5615B15B9A95E00C66FE6 /* SILENCE.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		506CF9CE15AB6A3600A839F4 /* sample_1kHz_44100Hz_16bit_05sec.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sample_1kHz_44100Hz_16bit_05sec.wav; sourceTree = "<group>"; };
+		5097FA3015B0A086005C6175 /* 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 1.wav; sourceTree = "<group>"; };
+		5097FA3115B0A086005C6175 /* 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 2.wav; sourceTree = "<group>"; };
+		5097FA3215B0A086005C6175 /* 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 3.wav; sourceTree = "<group>"; };
+		5097FA3315B0A086005C6175 /* 4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 4.wav; sourceTree = "<group>"; };
+		5097FA3415B0A086005C6175 /* 5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 5.wav; sourceTree = "<group>"; };
+		5097FA3515B0A086005C6175 /* 6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 6.wav; sourceTree = "<group>"; };
+		5097FA3615B0A086005C6175 /* 7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 7.wav; sourceTree = "<group>"; };
+		5097FA3715B0A086005C6175 /* 8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 8.wav; sourceTree = "<group>"; };
+		5097FA3815B0A086005C6175 /* 9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 9.wav; sourceTree = "<group>"; };
+		5097FA3915B0A086005C6175 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		5097FA3A15B0A086005C6175 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		5097FA3B15B0A086005C6175 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		5097FA3C15B0A086005C6175 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		5097FA3D15B0A086005C6175 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		5097FA3E15B0A086005C6175 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		5097FA3F15B0A086005C6175 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		5097FA4015B0A086005C6175 /* H.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = H.wav; sourceTree = "<group>"; };
+		5097FA4115B0A086005C6175 /* J.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = J.wav; sourceTree = "<group>"; };
+		5097FA4215B0A086005C6175 /* K.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = K.wav; sourceTree = "<group>"; };
+		5097FA4315B0A086005C6175 /* L.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = L.wav; sourceTree = "<group>"; };
+		5097FA4415B0A086005C6175 /* M.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = M.wav; sourceTree = "<group>"; };
+		5097FA4515B0A086005C6175 /* P.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = P.wav; sourceTree = "<group>"; };
+		5097FA4615B0A086005C6175 /* Q.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Q.wav; sourceTree = "<group>"; };
+		5097FA4715B0A086005C6175 /* R.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = R.wav; sourceTree = "<group>"; };
+		5097FA4815B0A086005C6175 /* S.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = S.wav; sourceTree = "<group>"; };
+		5097FA4A15B0A086005C6175 /* U.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = U.wav; sourceTree = "<group>"; };
+		5097FA4B15B0A086005C6175 /* V.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = V.wav; sourceTree = "<group>"; };
+		5097FA4C15B0A086005C6175 /* W.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = W.wav; sourceTree = "<group>"; };
+		5097FA4D15B0A086005C6175 /* X.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = X.wav; sourceTree = "<group>"; };
+		5097FA4E15B0A086005C6175 /* Y.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Y.wav; sourceTree = "<group>"; };
+		5097FA4F15B0A086005C6175 /* Z.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Z.wav; sourceTree = "<group>"; };
+		5097FA7015B0A71B005C6175 /* T.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = T.wav; sourceTree = "<group>"; };
 		50B5FF2215920DB80002121F /* SelCalToneGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelCalToneGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50B5FF2615920DB80002121F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		50B5FF2815920DB80002121F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		50B5FF2A15920DB80002121F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		50B5FF2E15920DB80002121F /* SelCalToneGenerator-Info.plist */ = {isa = PBXFileReference; path = "SelCalToneGenerator-Info.plist"; sourceTree = "<group>"; };
+		50B5FF2E15920DB80002121F /* SelCalToneGenerator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SelCalToneGenerator-Info.plist"; sourceTree = "<group>"; };
 		50B5FF3015920DB80002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		50B5FF3215920DB80002121F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		50B5FF3415920DB80002121F /* SelCalToneGenerator-Prefix.pch */ = {isa = PBXFileReference; path = "SelCalToneGenerator-Prefix.pch"; sourceTree = "<group>"; };
-		50B5FF3515920DB80002121F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		50B5FF3415920DB80002121F /* SelCalToneGenerator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SelCalToneGenerator-Prefix.pch"; sourceTree = "<group>"; };
+		50B5FF3515920DB80002121F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		50B5FF3615920DB80002121F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		50B5FF3915920DB80002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		50B5FF3C15920DB90002121F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		50B5FF3E15920DB90002121F /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		50B5FF3E15920DB90002121F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		50B5FF3F15920DB90002121F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		50B5FF5615923DF20002121F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		50E5615B15B9A95E00C66FE6 /* SILENCE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SILENCE.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50B5FF5715923DF20002121F /* AVFoundation.framework in Frameworks */,
 				50B5FF2715920DB80002121F /* UIKit.framework in Frameworks */,
 				50B5FF2915920DB80002121F /* Foundation.framework in Frameworks */,
 				50B5FF2B15920DB80002121F /* CoreGraphics.framework in Frameworks */,
@@ -49,6 +120,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5097FA2F15B0A086005C6175 /* SELCAL_TONES */ = {
+			isa = PBXGroup;
+			children = (
+				5097FA3015B0A086005C6175 /* 1.wav */,
+				5097FA3115B0A086005C6175 /* 2.wav */,
+				5097FA3215B0A086005C6175 /* 3.wav */,
+				5097FA3315B0A086005C6175 /* 4.wav */,
+				5097FA3415B0A086005C6175 /* 5.wav */,
+				5097FA3515B0A086005C6175 /* 6.wav */,
+				5097FA3615B0A086005C6175 /* 7.wav */,
+				5097FA3715B0A086005C6175 /* 8.wav */,
+				5097FA3815B0A086005C6175 /* 9.wav */,
+				5097FA3915B0A086005C6175 /* A.wav */,
+				5097FA3A15B0A086005C6175 /* B.wav */,
+				5097FA3B15B0A086005C6175 /* C.wav */,
+				5097FA3C15B0A086005C6175 /* D.wav */,
+				5097FA3D15B0A086005C6175 /* E.wav */,
+				5097FA3E15B0A086005C6175 /* F.wav */,
+				5097FA3F15B0A086005C6175 /* G.wav */,
+				5097FA4015B0A086005C6175 /* H.wav */,
+				5097FA4115B0A086005C6175 /* J.wav */,
+				5097FA4215B0A086005C6175 /* K.wav */,
+				5097FA4315B0A086005C6175 /* L.wav */,
+				5097FA4415B0A086005C6175 /* M.wav */,
+				5097FA4515B0A086005C6175 /* P.wav */,
+				5097FA4615B0A086005C6175 /* Q.wav */,
+				5097FA4715B0A086005C6175 /* R.wav */,
+				5097FA4815B0A086005C6175 /* S.wav */,
+				50E5615B15B9A95E00C66FE6 /* SILENCE.wav */,
+				5097FA7015B0A71B005C6175 /* T.wav */,
+				5097FA4A15B0A086005C6175 /* U.wav */,
+				5097FA4B15B0A086005C6175 /* V.wav */,
+				5097FA4C15B0A086005C6175 /* W.wav */,
+				5097FA4D15B0A086005C6175 /* X.wav */,
+				5097FA4E15B0A086005C6175 /* Y.wav */,
+				5097FA4F15B0A086005C6175 /* Z.wav */,
+			);
+			path = SELCAL_TONES;
+			sourceTree = "<group>";
+		};
 		50B5FF1715920DB80002121F = {
 			isa = PBXGroup;
 			children = (
@@ -69,6 +180,7 @@
 		50B5FF2515920DB80002121F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				50B5FF5615923DF20002121F /* AVFoundation.framework */,
 				50B5FF2615920DB80002121F /* UIKit.framework */,
 				50B5FF2815920DB80002121F /* Foundation.framework */,
 				50B5FF2A15920DB80002121F /* CoreGraphics.framework */,
@@ -93,10 +205,12 @@
 		50B5FF2D15920DB80002121F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5097FA2F15B0A086005C6175 /* SELCAL_TONES */,
 				50B5FF2E15920DB80002121F /* SelCalToneGenerator-Info.plist */,
 				50B5FF2F15920DB80002121F /* InfoPlist.strings */,
 				50B5FF3215920DB80002121F /* main.m */,
 				50B5FF3415920DB80002121F /* SelCalToneGenerator-Prefix.pch */,
+				506CF9CE15AB6A3600A839F4 /* sample_1kHz_44100Hz_16bit_05sec.wav */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -155,6 +269,40 @@
 				50B5FF3115920DB80002121F /* InfoPlist.strings in Resources */,
 				50B5FF3A15920DB80002121F /* MainStoryboard_iPhone.storyboard in Resources */,
 				50B5FF3D15920DB90002121F /* MainStoryboard_iPad.storyboard in Resources */,
+				506CF9CF15AB6A3600A839F4 /* sample_1kHz_44100Hz_16bit_05sec.wav in Resources */,
+				5097FA5015B0A086005C6175 /* 1.wav in Resources */,
+				5097FA5115B0A086005C6175 /* 2.wav in Resources */,
+				5097FA5215B0A086005C6175 /* 3.wav in Resources */,
+				5097FA5315B0A086005C6175 /* 4.wav in Resources */,
+				5097FA5415B0A086005C6175 /* 5.wav in Resources */,
+				5097FA5515B0A086005C6175 /* 6.wav in Resources */,
+				5097FA5615B0A086005C6175 /* 7.wav in Resources */,
+				5097FA5715B0A086005C6175 /* 8.wav in Resources */,
+				5097FA5815B0A086005C6175 /* 9.wav in Resources */,
+				5097FA5915B0A086005C6175 /* A.wav in Resources */,
+				5097FA5A15B0A086005C6175 /* B.wav in Resources */,
+				5097FA5B15B0A086005C6175 /* C.wav in Resources */,
+				5097FA5C15B0A086005C6175 /* D.wav in Resources */,
+				5097FA5D15B0A086005C6175 /* E.wav in Resources */,
+				5097FA5E15B0A086005C6175 /* F.wav in Resources */,
+				5097FA5F15B0A086005C6175 /* G.wav in Resources */,
+				5097FA6015B0A086005C6175 /* H.wav in Resources */,
+				5097FA6115B0A086005C6175 /* J.wav in Resources */,
+				5097FA6215B0A086005C6175 /* K.wav in Resources */,
+				5097FA6315B0A086005C6175 /* L.wav in Resources */,
+				5097FA6415B0A086005C6175 /* M.wav in Resources */,
+				5097FA6515B0A086005C6175 /* P.wav in Resources */,
+				5097FA6615B0A086005C6175 /* Q.wav in Resources */,
+				5097FA6715B0A086005C6175 /* R.wav in Resources */,
+				5097FA6815B0A086005C6175 /* S.wav in Resources */,
+				5097FA6A15B0A086005C6175 /* U.wav in Resources */,
+				5097FA6B15B0A086005C6175 /* V.wav in Resources */,
+				5097FA6C15B0A086005C6175 /* W.wav in Resources */,
+				5097FA6D15B0A086005C6175 /* X.wav in Resources */,
+				5097FA6E15B0A086005C6175 /* Y.wav in Resources */,
+				5097FA6F15B0A086005C6175 /* Z.wav in Resources */,
+				5097FA7115B0A71B005C6175 /* T.wav in Resources */,
+				50E5615C15B9A95E00C66FE6 /* SILENCE.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +437,7 @@
 				50B5FF4515920DB90002121F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
